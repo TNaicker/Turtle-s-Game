@@ -1,16 +1,5 @@
-// var theBod = document.getElementsByTagName('body');
-// var myGrid = document.createElement('table');
-// for(let x = 0; x < 30; x++){
-//   var myTR = document.createElement('tr');
-//   myGrid.appendChild(myTR);
-//   for(var y = 0; y < 30; y++){
-//     var myTD = document.createElement('td');
-//     myTR.appendChild(myTD);
-//     myTD.className = "square" + y;
-//     myTD.innerText = "1";
-//   }
-// }
 
+//Aw yeeeeeeeee... JQUERY
 var myGrid = $('<table>');
 for(let x = 0; x < 30; x++){
   var myTR = $('<tr>');
