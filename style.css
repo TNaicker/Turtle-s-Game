@@ -1,0 +1,29 @@
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+td:hover {
+  box-shadow: inset 1px 1px 10px grey;
+}
+table {
+  margin: 0 auto;
+  height: 700px;
+  width: 80%;
+  background: white;
+}
+
+h1 {
+  margin: 0 auto;
+  text-align: center;
+  color: red;
+}
+h2 {
+  margin: 0 auto;
+  text-align: center;
+  float: right;
+  color: red;
+}
+
+body {
+  background: black;
+}
